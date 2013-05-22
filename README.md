@@ -1,12 +1,10 @@
 # federated-pi 
 
-Here is the plan: pick up a stack of raspberry pi's, and do some install/hack fests.
-Put together a personal server club (a federation) with some of the components listed below.
-Therefore, _federated-pi_.
-
 The intention: bring together the best of the [personal cloud](https://github.com/airships/zephyr/wiki/Personal-Clouds), 
 [federated social web](http://en.wikipedia.org/wiki/Distributed_social_network), and [indieweb/POSSE](http://indiewebcamp.com/POSSE) protocols, platforms, and applications, 
 all on sub-hundred dollar personal servers.
+
+The means: raspberry pi personal server clubs (ie federations, therefore _federated-pi_) with install/hack fests around some of the components listed below.  Or better! -- please remix and upgrade these ideas.
 
 Here are some of the components we may include.
 Don't be daunted!  We will start small, get things up and running fast, and add components as needed.
