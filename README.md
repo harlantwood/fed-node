@@ -46,3 +46,11 @@ This should be entirely driven by actual needs and desires, eg sharing files, pu
 ## Bonus: cryptographically verifiable history
 - [Git](http://git-scm.com/)
 - [bitcoin-style block chains](https://www.khanacademy.org/science/core-finance/money-and-banking/bitcoin/v/bitcoin-transaction-block-chains)
+
+
+Getting a Pi
+------------
+
+Two decent Amazon shopping list, current as of May 2013: 
+- <http://www.amazon.com/lm/R1W0G1BRR6JQQH>
+- <http://www.amazon.com/lm/RA6EX6ZYSH0UN>
