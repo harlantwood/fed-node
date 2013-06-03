@@ -1,29 +1,26 @@
-federated-pi 
-============
+Federation Node
+===============
              
 The Intention
 -------------
 Bring together the best of the [personal cloud](https://github.com/airships/zephyr/wiki/Personal-Clouds), 
-[federated social web](http://en.wikipedia.org/wiki/Distributed_social_network), and [indieweb/POSSE](http://indiewebcamp.com/POSSE) protocols, platforms, and applications, 
-all on sub-hundred dollar personal servers.
+[federated social web](http://en.wikipedia.org/wiki/Distributed_social_network), 
+and [indieweb/POSSE](http://indiewebcamp.com/POSSE) protocols, platforms, and applications, 
+in an easily deployable server package that can be applied both to standard linux cloud servers 
+and also to sub-hundred dollar personal servers such as the currently popular Raspberry Pi.
 
-The means
----------
-Raspberry Pi personal server clubs (a.k.a. federations, therefore _federated-pi_) with install/hack fests around some of the components listed below.  Or better! -- please remix and upgrade these ideas.
-
-
-Proposed roles for your devices and services
---------------------------------------------
-- _your current primary device_: creation 
-- _federated-pi_: home backup, sync, large file storage
-- _web host_: content distribution and caching layer
+Server Roles
+------------
+- _home server_: large file storage, remote access 
+  (this may be a low-cost plug computer connected to an external hard drive)
+- _web host_: public and federation http server                            
+  (A full OpenStack or similar instance with root access)
                                
 Candidate Components
 --------------------
-
-Here are some of the components we may include.
-Don't be daunted!  We will start small, get things up and running fast, and add components as needed.
-This should be entirely driven by actual needs and desires, eg sharing files, publishing, etc.
+Here are some of the components we may include.  
+To contribute, please fork this document.  
+Pull requests are welcome.
 
 ### Publish HTML
 - apache or other standard web servers
