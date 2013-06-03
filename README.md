@@ -22,32 +22,37 @@ Here are some of the components we may include.
 To contribute, please fork this document.  
 Pull requests are welcome.
 
-### Publish HTML
-- apache or other standard web servers
-
 ### Publish Activity Streams
 - [pump.io](http://pump.io/)
+- [storytlr](https://github.com/storytlr/storytlr)
+- [helloworld](https://github.com/mimecuvalo/helloworld)
+
+### Protocols
+- [activitystrea.ms](http://activitystrea.ms/)
+- [tent.io](https://tent.io/)
+- [PubSubHubbub](https://code.google.com/p/pubsubhubbub/)
 
 ### Sync
 - [camlistore](http://camlistore.org/)
-- rsync
+- rsync        
+    
+### Portable Profiles
+- [Libravatar](https://www.libravatar.org/)
 
 ### Convert markdown to html
 - [jekyll](http://jekyllrb.com/)
 - [gist.io](https://github.com/idan/gistio)
 
-### Protocols
-- [activitystrea.ms](http://activitystrea.ms/)
-- [tent.io](https://tent.io/)
+### Publish Static HTML
+- apache/nginx/etc
 
-### Bonus: cryptographically verifiable history
-- [Git](http://git-scm.com/)
-- [bitcoin-style block chains](https://www.khanacademy.org/science/core-finance/money-and-banking/bitcoin/v/bitcoin-transaction-block-chains)
+### Indie Phone
+- [OpenVBX](http://www.openvbx.org/)
 
+Further resources
+-----------------
+- <http://indiewebcamp.com/Projects> 
 
-Getting a Pi
-------------
-
-Two decent Amazon shopping list, current as of May 2013: 
-- <http://www.amazon.com/lm/R1W0G1BRR6JQQH>
-- <http://www.amazon.com/lm/RA6EX6ZYSH0UN>
+Plug Computers
+--------------
+- Raspberry Pi Amazon shopping list, current as of May 2013: <http://www.amazon.com/lm/R1W0G1BRR6JQQH>
