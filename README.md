@@ -18,8 +18,8 @@ Server Roles
                                
 Candidate Components
 --------------------
-Here are some of the components we may include.  
-To contribute, please fork this document.  
+Here are some of the components we may include.
+To contribute, please fork this document.
 Pull requests are welcome.
 
 ### Publish Activity Streams
