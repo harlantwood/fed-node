@@ -7,7 +7,7 @@ Bring together the best of the [personal cloud](https://github.com/airships/zeph
 [federated social web](http://en.wikipedia.org/wiki/Distributed_social_network), 
 and [indieweb/POSSE](http://indiewebcamp.com/POSSE) protocols, platforms, and applications, 
 in an easily deployable server package that can be applied both to standard linux cloud servers 
-and also to sub-hundred dollar personal servers such as the currently popular Raspberry Pi.
+and also to sub-hundred dollar personal servers (such as the currently popular Raspberry Pi).
 
 Server Roles
 ------------
